@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "2+kWtw1UdUo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adrian\\source\\repos\\AUTOCLICKING\\AUTOCLICKING.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adrian\\.nuget\\packages\\nhotkey\\2.1.1\\nhotkey.2.1.1.nupkg.sha512",
+    "C:\\Users\\Adrian\\.nuget\\packages\\nhotkey.windowsforms\\2.1.1\\nhotkey.windowsforms.2.1.1.nupkg.sha512",
+    "C:\\Users\\Adrian\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Adrian\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Adrian\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Adrian\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
